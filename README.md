@@ -1,12 +1,13 @@
-# alex-micro-arch-analysis
+# Micro-architectural Analysis of ALEX, Art, and Btree
 
 ## How to run the benchmark driver
 Download the project:
 
-    git clone https://github.itu.dk/mikka/alex-micro-arch-analysis.git
-    cd alex-micro-arch-analysis/
+    git clone https://github.com/ptozun/uarch-alex.git
+    cd uarch-alex/
 
-There are 3 code bases each located in their own folder. There is a benchmark driver located in each folder. \
+For keeping this repository brief, we exclude the source-codes for the three indexes. You can download the index codebases using the links mentioned in the paper; Micro-architectural Analysis of a Learned Index, aiDM 2022. The codebases should be placed under the corresponding subfolder for each index.\
+There is a benchmark driver located in each folder. \
 To compile the benchmark driver there is a build.sh in the folder. \
 It will create a folder called 'build' which contains an executable file. \
 For ALEX that file is named: runALEX \
