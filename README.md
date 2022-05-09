@@ -1,4 +1,4 @@
-# Micro-architectural Analysis of ALEX, Art, and Btree
+# Micro-architectural Analysis of ALEX, ART, and Btree
 
 ## How to run the benchmark driver
 Download the project:
